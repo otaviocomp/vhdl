@@ -1,0 +1,115 @@
+$date
+     Apr 27 2016  20:21:13
+$end
+$version
+    FREEHDL 0.0.8
+$end
+$timescale
+    1 ns
+$end
+$scope module dataflow $end
+$var   trireg 1 ! inpone $end
+$var   trireg 1 " inptwo $end
+$var   trireg 1 # outp $end
+$scope module portmaps $end
+$var   trireg 1 $ ina $end
+$var   trireg 1 % inb $end
+$var   trireg 1 & op $end
+$upscope $end
+$scope module testprocess $end
+$var   trireg 1 ' testprocess-_implicit_wait_for $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+$end
+#10
+1'
+#10
+1%
+1"
+#20
+1'
+#20
+1$
+1!
+0%
+0"
+#30
+1'
+#30
+1%
+1"
+#30
+1&
+1#
+#40
+1'
+#40
+0$
+0!
+0%
+0"
+#40
+0&
+0#
+#50
+1'
+#50
+1%
+1"
+#60
+1'
+#60
+1$
+1!
+0%
+0"
+#70
+1'
+#70
+1%
+1"
+#70
+1&
+1#
+#80
+1'
+#80
+0$
+0!
+0%
+0"
+#80
+0&
+0#
+#90
+1'
+#90
+1%
+1"
+#100
+1'
+#100
+1$
+1!
+0%
+0"
+#100
+$dumpvars
+1!
+0"
+0#
+1$
+0%
+0&
+0'
+$end
