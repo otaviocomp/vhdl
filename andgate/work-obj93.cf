@@ -1,0 +1,7 @@
+v 4
+file . "andgate.vhdl" "f6d839c89d4a53e8518c712d068039e87cab2b77" "20171222215656.100":
+  entity andgate at 1( 0) + 0 on 13;
+  architecture hardware of andgate at 13( 283) + 0 on 14;
+file . "andgate_tb.vhdl" "439756ee13d70a7f94251095e1c6195ea52fa748" "20171222215656.099":
+  entity andgate_tb at 1( 0) + 0 on 11;
+  architecture tb of andgate_tb at 7( 82) + 0 on 12;

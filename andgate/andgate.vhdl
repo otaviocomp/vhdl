@@ -1,5 +1,5 @@
 library IEEE;
-use IEEE.std_logic_1164.all;
+use IEEE.std_logic_1164.ALL;
 
 entity andgate is 							-- declaring entity
 port
@@ -12,6 +12,5 @@ end andgate;								-- end of declaration of entity
 
 architecture hardware of andgate is 
 begin 
-	c <= a AND b;							-- operation	
+	c <= a AND b;							-- operation
 end hardware;	
-
