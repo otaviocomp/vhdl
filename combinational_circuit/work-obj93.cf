@@ -1,7 +1,7 @@
 v 4
-file . "combinational_circuit_tb.vhdl" "2e83b58dfaaef0940d6fee6115f05616c975c8f5" "20171222234152.493":
-  entity combinational_circuit_tb at 1( 0) + 0 on 15;
-  architecture tb of combinational_circuit_tb at 7( 110) + 0 on 16;
-file . "combinational_circuit.vhdl" "50dfef15d8241370c54bf3bf91c3d58ef23cef85" "20171222234152.494":
-  entity combinational_circuit at 1( 0) + 0 on 17;
-  architecture circuit of combinational_circuit at 14( 197) + 0 on 18;
+file . "combinational_circuit_tb.vhdl" "2e83b58dfaaef0940d6fee6115f05616c975c8f5" "20171223122319.341":
+  entity combinational_circuit_tb at 1( 0) + 0 on 27;
+  architecture tb of combinational_circuit_tb at 7( 110) + 0 on 28;
+file . "combinational_circuit.vhdl" "9c672123e9955cd4d4e24b3c78f03dc088861268" "20171223122319.342":
+  entity combinational_circuit at 40( 675) + 0 on 29;
+  architecture circuit of combinational_circuit at 53( 872) + 0 on 30;
