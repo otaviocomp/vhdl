@@ -1,0 +1,47 @@
+$date
+  Sat Dec 23 06:36:26 2017
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 2 ! insel[1:0] $end
+$var reg 4 " ina[3:0] $end
+$var reg 1 # outo $end
+$scope module mapping $end
+$var reg 2 $ sel[1:0] $end
+$var reg 4 % a[3:0] $end
+$var reg 1 & o $end
+$upscope $end
+$enddefinitions $end
+#0
+b00 !
+bUUU0 "
+0#
+b00 $
+bUUU0 %
+0&
+#15000000
+b01 !
+bUU10 "
+1#
+b01 $
+bUU10 %
+1&
+#30000000
+b10 !
+bU010 "
+0#
+b10 $
+bU010 %
+0&
+#45000000
+b11 !
+b1010 "
+1#
+b11 $
+b1010 %
+1&
+#60000000
